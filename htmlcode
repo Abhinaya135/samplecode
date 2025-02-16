@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Sections</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1>Our Tasty Dishes</h1>
+    </header>
+    
+    <div class="sections-container">
+        <div class="section" id="section1">
+            <div class="section-title">Pizza</div>
+            <p>Pizza is a traditional Italian dish consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, mushrooms, onions, olives, vegetables, meat, etc.), which is then baked at a high temperature, traditionally in a wood-fired oven.</p>
+        </div>
+        
+        <div class="section" id="section2">
+            <div class="section-title">Pasta</div>
+            <p>Pasta is an Italian type of food typically made from durum wheat semolina. It comes in many shapes and sizes, from spaghetti to penne, and is often served with a variety of sauces like tomato, Alfredo, or pesto. It is a staple of Italian cuisine and enjoyed worldwide.</p>
+        </div>
+        
+        <div class="section" id="section3">
+            <div class="section-title">Salad</div>
+            <p>A salad is a dish consisting of a mixture of small pieces of food, typically vegetables or fruits, and often combined with other ingredients such as meat, cheese, nuts, or grains. It is usually served cold and can be dressed with various condiments like vinaigrette, mayonnaise, or yogurt-based dressings.</p>
+        </div>
+    </div>
+</body>
+</html>
